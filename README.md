@@ -1,7 +1,7 @@
 # Handwritten Digit Recognition System
 Using the "SVM-KNN" technique to recognize images of handwritten digits.
 
-### Source Code Comprises Of:
+#### Source Code Comprises Of:
 - `/data` - folder containing the dataset
 - `dataexploration.ipynb` - iPython Notebook file to perform data exploration
 - `model.py` - implements the learning model
