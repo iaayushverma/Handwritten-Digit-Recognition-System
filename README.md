@@ -3,7 +3,7 @@ Using the "SVM-KNN" technique to recognize images of handwritten digits.
 
 ### Source Code
 - `/data` - folder containing the dataset
-- `capstone.ipynb` - iPython Notebook file to perform data exploration
+- `dataexploration.ipynb` - iPython Notebook file to perform data exploration
 - `model.py` - implements the learning model
 - `report.pdf` - detailed report of the problem and solution
 
