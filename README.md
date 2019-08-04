@@ -1,5 +1,4 @@
-# Project 5: Capstone
-### This Project Has Been Confirmed As Successful By A Udacity Reviewer.
+# Handwritten Digit Recognition System
 Using the "SVM-KNN" technique to recognize images of handwritten digits.
 
 ### Source Code
