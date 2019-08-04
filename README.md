@@ -5,7 +5,7 @@ Using the "SVM-KNN" technique to recognize images of handwritten digits.
 - `/data` - folder containing the dataset
 - `dataexploration.ipynb` - iPython Notebook file to perform data exploration
 - `model.py` - implements the learning model
-- `report.pdf` - detailed report of the problem and solution
+- `Project Report.pdf` - detailed report of the problem and solution
 
 #### Requirements
 This project requires Python 2.7 and the following Python libraries installed:
