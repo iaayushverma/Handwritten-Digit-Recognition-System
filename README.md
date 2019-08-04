@@ -17,4 +17,4 @@ This project requires Python 2.7 and the following Python libraries installed:
 #### Run
 Navigate to the root folder, then execute one of the two following commands:
 - `jupyter notebook dataexploration.ipynb` to open the notebook file
-- `python model.py` to run the model and see categorization accuracy
+- `python aayush_model.py` to run the model and see categorization accuracy
